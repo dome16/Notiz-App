@@ -1,0 +1,10 @@
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\NotitzApp\NotitzApp\bin\Debug\NotitzApp.exe.config
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\NotitzApp\NotitzApp\bin\Debug\NotitzApp.exe
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\NotitzApp\NotitzApp\bin\Debug\NotitzApp.pdb
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\NotitzApp\NotitzApp\obj\Debug\NotitzApp.csprojAssemblyReference.cache
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\NotitzApp\NotitzApp\obj\Debug\NotitzApp.Form1.resources
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\NotitzApp\NotitzApp\obj\Debug\NotitzApp.Properties.Resources.resources
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\NotitzApp\NotitzApp\obj\Debug\NotitzApp.csproj.GenerateResource.cache
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\NotitzApp\NotitzApp\obj\Debug\NotitzApp.csproj.CoreCompileInputs.cache
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\NotitzApp\NotitzApp\obj\Debug\NotitzApp.exe
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\NotitzApp\NotitzApp\obj\Debug\NotitzApp.pdb
